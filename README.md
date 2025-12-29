@@ -36,6 +36,32 @@ It focuses on clean UI design, basic DOM manipulation, and working with a built-
 
 ├── index.html
 ├── style.css
-|── script.js
+└── script.js
 
 
+## ✨ Features
+
+- Converts text input into speech
+- Uses browser built-in Web Speech API
+- Clean and modern UI
+- No external libraries required
+- Basic input validation
+
+
+## 🚀 Getting Started
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/dinishsg/text-to-speech-js.git
+2. Open index.html in your browser.
+3. Enter text and click **Speak**.
+
+
+## 📸 Screenshots
+
+![Home Page](Screenshots/Preview.png)
+
+
+## 🌐 Live Demo
+
+🔗(https://dinishsg.github.io/text-to-speech-js/)
